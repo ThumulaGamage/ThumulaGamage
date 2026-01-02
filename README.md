@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Thumula Gamage</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer </h3>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer | IoT Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mobile+App+Developer;IoT+%26+Hardware+Integration;Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThumulaGamage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ThumulaGamage?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/thumula-gamage">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=for-the-badge" alt="Status" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-Flutter%20%7C%20React%20Native-02569B?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20Arduino-000000?style=flat-square&logo=arduino" />
+  <img src="https://img.shields.io/badge/AI%2FML-Learning-FF6F00?style=flat-square&logo=tensorflow" />
+</p>
 ---
 
 ## 🎓 About Me
@@ -33,38 +41,27 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend Development
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend Development
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### IoT & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### AI & Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -73,42 +70,42 @@
 
 ## 🚀 Featured Projects
 
-### 🏋️ [STRIVIO - Fitness Mobile Application](https://github.com/YOUR_USERNAME/strivio)
+### 🏋️ STRIVIO - Fitness Mobile Application
 **Technologies:** Flutter • Firebase • Gemini AI • fl_chart
 - Built comprehensive user progress tracking with body metrics monitoring
 - Developed interactive data visualization dashboards
 - Integrated AI-powered meal planning and workout recommendations
 - **Role:** Developer (Group Project)
 
-### 🚗 [CarMinder - Vehicle Maintenance Log App](https://github.com/YOUR_USERNAME/carminder)
+### 🚗 CarMinder - Vehicle Maintenance Log App
 **Technologies:** React Native • Firebase • Cloud Functions • FCM
 - Led team of 3 developers as Project Manager
 - Implemented secure authentication and multi-vehicle management
 - Built smart notification system for maintenance reminders
 - **Role:** Team Leader & Developer
 
-### 💧 [Smart Water Bottle with IoT](https://github.com/YOUR_USERNAME/smart-water-bottle)
+### 💧 Smart Water Bottle with IoT
 **Technologies:** React Native • ESP32 • Firebase • BLE • Sensors
 - Designed complete IoT architecture with hardware integration
 - Built ESP32-based sensor system (Load Cell, Temperature, Motion)
 - Implemented BLE communication protocol
 - **Role:** Team Leader, System Architect, Hardware Engineer
 
-### 🏋️‍♂️ [University Gym Booking System](https://github.com/YOUR_USERNAME/gym-booking)
+### 🏋️‍♂️ University Gym Booking System
 **Technologies:** MongoDB • Express.js • React • Node.js
 - Full-stack MERN application with role-based access control
 - Real-time booking system with conflict prevention
 - QR code generation for attendance verification
 - **Role:** Full-Stack Developer (Individual)
 
-### 🤖 [AI-Powered Supermarket Chatbot](https://github.com/YOUR_USERNAME/supermarket-chatbot)
+### 🤖 AI-Powered Supermarket Chatbot
 **Technologies:** Python • spaCy • NLP • Tkinter
 - Intelligent chatbot using Natural Language Processing
 - Smart matching algorithm with 95% accuracy
 - Dynamic shopping list management
 - **Role:** AI/NLP Developer (Individual)
 
-### 🎓 [Student-Teacher Platform](https://github.com/YOUR_USERNAME/education-platform) *(In Development)*
+### 🎓 Student-Teacher Platform *(In Development)*
 **Technologies:** MERN Stack • TypeScript
 - Building educational platform with TypeScript
 - RESTful API for course management
@@ -117,32 +114,13 @@
 
 ---
 
-## 📊 GitHub Statistics
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ThumulaGamage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThumulaGamage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThumulaGamage&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThumulaGamage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThumulaGamage&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThumulaGamage&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+</div>
 
 ---
 
@@ -159,17 +137,14 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/thumula-gamage-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:22eng092@sjp.ac.lk">
+  <a href="mailto:thumuladgamage@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ThumulaGamage">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -180,5 +155,5 @@
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/YOUR_USERNAME">Thumula Gamage</a> - Building solutions that matter!</i>
+  <i>⭐ Building solutions that matter! Check out my repositories below ⬇️</i>
 </p>
