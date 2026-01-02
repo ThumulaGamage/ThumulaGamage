@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thumula Gamage</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | IoT Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mobile+App+Developer;IoT+%26+Hardware+Integration;Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ThumulaGamage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ThumulaGamage?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -20,8 +20,7 @@
 - 🌱 Learning **Machine Learning**, **Deep Learning**, and **Generative AI**
 - 💡 Passionate about building **end-to-end solutions** that combine software and hardware
 - 👨‍💻 Experienced in leading **team projects** from concept to deployment
-- 📧 Reach me at **22eng092@sjp.ac.lk**
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +56,6 @@
 ### IoT & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### AI & Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -110,13 +108,6 @@
 - Dynamic shopping list management
 - **Role:** AI/NLP Developer (Individual)
 
-### 📅 [GUI Calendar & Event Management](https://github.com/YOUR_USERNAME/calendar-app)
-**Technologies:** Java • Swing • AWT • OOP
-- Event scheduling with recurring events support
-- Validation engine preventing schedule conflicts
-- Multiple view modes (daily/weekly/monthly)
-- **Role:** Developer (Academic Project)
-
 ### 🎓 [Student-Teacher Platform](https://github.com/YOUR_USERNAME/education-platform) *(In Development)*
 **Technologies:** MERN Stack • TypeScript
 - Building educational platform with TypeScript
@@ -129,12 +120,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ThumulaGamage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThumulaGamage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThumulaGamage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -142,7 +133,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThumulaGamage&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -150,7 +141,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThumulaGamage&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
