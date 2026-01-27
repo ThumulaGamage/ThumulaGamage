@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thumula Gamage</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | IoT Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mobile+App+Developer;IoT+%26+Hardware+Integration;Building+Real-World+Solutions" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Mobile%20Dev-Flutter%20%7C%20React%20Native-02569B?style=flat-square&logo=flutter" />
   <img src="https://img.shields.io/badge/IoT-ESP32%20%7C%20Arduino-000000?style=flat-square&logo=arduino" />
   <img src="https://img.shields.io/badge/AI%2FML-Learning-FF6F00?style=flat-square&logo=tensorflow" />
